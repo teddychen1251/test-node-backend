@@ -4,7 +4,6 @@
   "description": "Testing with node.js",
   "main": "index.js",
   "scripts": {
-	  "deploy": "git add . && git commit -m \"some code \" && git push heroku master && git push origin master",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
