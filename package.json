@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/teddychen1251/test-node-backend#readme",
   "dependencies": {
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
   },
   "devDependencies": {
-    "express": "^4.16.4"
   }
 }
